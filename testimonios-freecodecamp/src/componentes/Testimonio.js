@@ -1,5 +1,5 @@
 import React from 'react';
-import '../hojas-de-estilo/Testimonio.css'; 
+import '../hojas-de-estilo/Testimonio.css';
 
 export function Testimonio(props) {
   return (
@@ -9,9 +9,9 @@ export function Testimonio(props) {
         alt={`Foto de ${props.alt}`} />
       <div className='contenedor-texto-testimonio'>
         <p className='nombre-testimonio'>
-        <strong>{props.nombre}</strong> en {props.pais}</p>
+          <strong>{props.nombre}</strong> en {props.pais}</p>
         <p className='cargo-testimonio'>
-        {props.cargo} en <strong>{props.empresa}</strong></p>
+          {props.cargo} en <strong>{props.empresa}</strong></p>
         <p className='texto-testimonio'>"{props.testimonio}"</p>
       </div>
     </div>
