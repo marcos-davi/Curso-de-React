@@ -29,6 +29,16 @@
     }
  ];
 
+//  {     
+//   nombre: 'Emma Bostian',
+//   pais: 'Suecia',
+//   imagen: 'emma',
+//   alt: 'Emma',
+//   cargo: 'Ingeniero de software',
+//   empresa: 'Spotify',
+//   testimonio: ['Siempre me ha costado aprender JavaScript. Tomé muchos cursos, pero ', <strong>el curso de freeCodeCamp fue el que se quedó.</strong>,' Estudiar JavaScript, así como estructuras de datos y algoritmos en freeCodeCamp me dio las habilidades y la confianza que necesitaba para conseguir el trabajo de mis sueños como un ingeniero de software en Spotify']
+// }
+
 
 
  
