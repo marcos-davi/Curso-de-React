@@ -1,6 +1,6 @@
 import './App.css';
 import { Testimonio } from './componentes/Testimonio.js'
-import { users } from './Users.js'
+import  users  from './componentes/Users.js'
 
 
 function App() {

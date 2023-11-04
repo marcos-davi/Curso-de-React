@@ -1,7 +1,7 @@
 import React from 'react';
 import './App.css';
 import Testimonio from './componentes/Testimonio'
-import { users } from './Users.js'
+import  users  from '.componentes/Users'
 
 class App extends React.Component {
   render() {

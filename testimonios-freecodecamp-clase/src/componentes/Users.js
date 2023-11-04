@@ -1,5 +1,5 @@
 
-  export const users = [
+  const users = [
     {  
       id: 0,    
       nombre: 'Shawn Wang',
@@ -28,6 +28,8 @@
       testimonio: 'Siempre me ha costado aprender JavaScript. Tomé muchos cursos, pero el curso de freeCodeCamp fue el que se quedó. Estudiar JavaScript, así como estructuras de datos y algoritmos en freeCodeCamp me dio las habilidades y la confianza que necesitaba para conseguir el trabajo de mis sueños como un ingeniero de software en Spotify'
     }
  ];
+
+ export default users;
 
 
 
